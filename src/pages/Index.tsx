@@ -192,7 +192,7 @@ const Footer = () => (
       <div className="flex gap-6 font-body text-lg">
         <a href="#features" className="hover:line-through transition-all">Features</a>
         <a href={CHROME_STORE_URL} target="_blank" rel="noopener noreferrer" className="hover:line-through transition-all">Chrome Store</a>
-        <a href="#" className="hover:line-through transition-all">Contact</a>
+        <a href="/privacy" className="hover:line-through transition-all">Privacy</a>
       </div>
       <p className="font-body text-muted-foreground">© 2026 TinyRead — read smarter ♥</p>
     </div>
