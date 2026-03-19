@@ -1,6 +1,6 @@
 import { Shield, Eye, Database, Lock, CheckCircle } from "lucide-react";
 
-const CHROME_STORE_URL = "https://chromewebstore.google.com/detail/tinyread-auto-summary-rel/oknmajiccmamfgabkomdpkhiabimoiap";
+const CHROME_STORE_URL = "https://chromewebstore.google.com/detail/tinyread-auto-summary-rel/fabjganmbnnemlopkmmciclgbmnafidp";
 
 const sections = [
   {

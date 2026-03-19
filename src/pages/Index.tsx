@@ -2,7 +2,7 @@ import { BookOpen, Zap, Eye, ArrowRight, Star, Chrome, Sparkles } from "lucide-r
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 
-const CHROME_STORE_URL = "https://chromewebstore.google.com/detail/tinyread-auto-summary-rel/oknmajiccmamfgabkomdpkhiabimoiap";
+const CHROME_STORE_URL = "https://chromewebstore.google.com/detail/tinyread-auto-summary-rel/fabjganmbnnemlopkmmciclgbmnafidp";
 
 const Hero = () => (
   <section className="relative py-20 px-6 overflow-hidden">
